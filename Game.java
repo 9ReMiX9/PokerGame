@@ -12,6 +12,7 @@ public abstract class Game{
 	
 	public Player randomPlayer()
 	{
+		//Fix it later
 		if(playerList.size() <= 0)
 		{
 			System.out.println("No players in game!");
